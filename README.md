@@ -30,7 +30,7 @@ Aplikasi catatan sederhana yang dibangun dengan Vite, React, dan JavaScript.
 
 1.  Klon repositori:
 
-    ### `git clone [https://de.wikipedia.org/wiki/Repositorium](https://de.wikipedia.org/wiki/Repositorium)`
+    ### `git clone https://github.com/Viergi/notes-app.git`
 
 2.  Masuk ke direktori proyek:
 
@@ -42,6 +42,6 @@ Aplikasi catatan sederhana yang dibangun dengan Vite, React, dan JavaScript.
 
 4.  Jalankan aplikasi:
 
-    ### npm run dev`
+    ### `npm run dev`
 
 5.  Buka aplikasi di browser Anda: `http://localhost:5173`
